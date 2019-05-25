@@ -1,0 +1,22 @@
+{
+  "name": "react-native-setup",
+  "version": "1.0.0",
+  "description": "Setting up and playing around with React Native app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajudandigam/react-native-setup.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Raju Dandigam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajudandigam/react-native-setup/issues"
+  },
+  "homepage": "https://github.com/rajudandigam/react-native-setup#readme"
+}
